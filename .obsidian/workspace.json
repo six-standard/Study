@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "23a3ae8e1be5c942",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe16c76a85983eab",
+        "type": "tabs",
+        "dimension": 79.31472081218274,
+        "children": [
+          {
+            "id": "abb56d6936399ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "345dac4210a92dc2",
+        "type": "tabs",
+        "dimension": 20.685279187817258,
+        "children": [
+          {
+            "id": "7fdbd1cac0211f43",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de38cf92451e6a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9e3dec9dcc7a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa78cb933f53b704",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04c8c87d6cdc25df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da796348605c640e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc4b285b9ac5005f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd555a11a7f4d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3f8ba25f455770",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS/Longest Increasing Subsequence (LIS).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Longest Increasing Subsequence (LIS)"
+            }
+          },
+          {
+            "id": "a4091c22a131f334",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "알고리즘/이진 탐색 Binary Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 이진 탐색 Binary Search"
+            }
+          },
+          {
+            "id": "5932763fc3623bfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f8343a1ff387ece",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "알고리즘/이진 탐색 Binary Search.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 이진 탐색 Binary Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "abb56d6936399ffd",
+  "lastOpenFiles": [
+    "CS/Longest Increasing Subsequence (LIS).md",
+    "CS/Binary Search.md",
+    "CS/Untitled",
+    "Javascript/Symbol.md",
+    "Javascript/requestAnimationFrame.md",
+    "자잘한 지식.md",
+    "_Index_of_Study.md",
+    "CS/_Index_of_CS.md",
+    "Network/Load Balancing.md",
+    "CS",
+    "Network/Cross-origin.md",
+    "스크린샷 2025-01-15 오전 12.38.12.png",
+    "Untitled",
+    "Typescript",
+    "Javascript/_Index_of_Javascript.md",
+    "Untitled.canvas",
+    "정리용/_Index_of_정리용.md",
+    "정리용/Web/Cookie.md",
+    "정리용/Web/_Index_of_Web.md",
+    "Javascript/Event Loop.md",
+    "운영체제",
+    "정리용/자료구조/_Index_of_자료구조.md",
+    "정리용",
+    "정리용/Linux/File Link.md",
+    "Linux/File System/_Index_of_File System.md",
+    "정리용/Linux/Index Node.md",
+    "정리용/Linux/Mount.md",
+    "Linux/File System",
+    "정리용/Images/Inode1.png",
+    "정리용/Images",
+    "Pasted image 20250108134036.png",
+    "정리용/Linux/_Index_of_Linux.md",
+    "OS/Pointer.md",
+    "OS/_Index_of_OS.md",
+    "OS",
+    "Dictionary.md",
+    "Network/_Index_of_Network.md",
+    "정리용/자료구조/Hashing.md",
+    "정리용/Linux",
+    "CS/운영체제/Process.md",
+    "Pasted image 20241219192651.png",
+    "Pasted image 20241219195712.png",
+    "Pasted image 20241219193850.png",
+    "Pasted image 20241219192653.png",
+    "Pasted image 20241219192647.png",
+    "Pasted image 20241219190421.png",
+    "사진/호출스택_2.png"
+  ]
+}
