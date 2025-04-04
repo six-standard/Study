@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineer Brain/CS/Algorithm/_Layout.md",
+                "file": "Engineer Brain/CS/DS_Store.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "_Layout"
+              "title": "DS_Store"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineer Brain/CS/Algorithm/_Layout.md",
+                "file": "Engineer Brain/CS/DS_Store.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Layout"
+              "title": "Backlinks for DS_Store"
             }
           },
           {
@@ -183,6 +183,7 @@
   },
   "active": "4661aec124648299",
   "lastOpenFiles": [
+    "Engineer Brain/CS/Algorithm/_Layout.md",
     "Engineer Brain/CS/Algorithm/Algorithm.md",
     "Engineer Brain/CS/Algorithm/BFS.md",
     "Engineer Brain/CS/Algorithm/Binary Search.md",
@@ -197,7 +198,6 @@
     "Images/Algorithm - Stack & Queue 1.png",
     "Untitled.canvas",
     "Engineer Brain/CS/Web/Web.md",
-    "Engineer Brain/CS/Algorithm/_Layout.md",
     "Engineer Brain/CS/Database/데이터 종속성, 중복성.md",
     "Engineer Brain/CS/OIDC/PKCE.md",
     "Engineer Brain/CS/OIDC/OIDC.md",
