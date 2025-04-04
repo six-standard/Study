@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineer Brain/CS/DS_Store.md",
+                "file": "Engineer Brain/CS/Algorithm/Stack & Queue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DS_Store"
+              "title": "Stack & Queue"
             }
           }
         ]
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#자료구조",
+                "query": "tag:#그래프",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineer Brain/CS/DS_Store.md",
+                "file": "Engineer Brain/CS/Algorithm/Stack & Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DS_Store"
+              "title": "Backlinks for Stack & Queue"
             }
           },
           {
@@ -183,12 +183,15 @@
   },
   "active": "4661aec124648299",
   "lastOpenFiles": [
-    "Engineer Brain/CS/Algorithm/_Layout.md",
-    "Engineer Brain/CS/Algorithm/Algorithm.md",
-    "Engineer Brain/CS/Algorithm/BFS.md",
-    "Engineer Brain/CS/Algorithm/Binary Search.md",
-    "Engineer Brain/CS/Algorithm/Dijkstra.md",
     "Engineer Brain/CS/Algorithm/Heap.md",
+    "Engineer Brain/CS/Algorithm/Dijkstra.md",
+    "Engineer Brain/CS/Algorithm/DFS.md",
+    "Engineer Brain/CS/Algorithm/Binary Search.md",
+    "Engineer Brain/CS/Algorithm/BFS.md",
+    "Engineer Brain/CS/Algorithm/Algorithm.md",
+    "Engineer Brain/CS/Image File Formats.md",
+    "Engineer Brain/CS/DS_Store.md",
+    "Engineer Brain/CS/Algorithm/_Layout.md",
     "Engineer Brain/CS/Algorithm/Stack & Queue.md",
     "Engineer Brain/Dictionary.md",
     "Engineer Brain/Engineer Brain.md",
@@ -210,9 +213,6 @@
     "Engineer Brain/CS/Algorithm/-Binary Search.md",
     "Engineer Brain/CS/Algorithm/-KnapSack Problem (0, 1 Problem).md",
     "Engineer Brain/CS/Algorithm/-Back-Tracking.md",
-    "Engineer Brain/Network/NAT & NAPT.md",
-    "Engineer Brain/CS/DS_Store.md",
-    "Engineer Brain/Javascript/Javascript.md",
     "Images/Javascript Engine - 1.png",
     "Images/OS - Provisioning 1.png",
     "Sync Async.pdf",
