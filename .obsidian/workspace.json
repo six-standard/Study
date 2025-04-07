@@ -6,7 +6,6 @@
       {
         "id": "f678c2bf21392e3d",
         "type": "tabs",
-        "dimension": 72.98772169167803,
         "children": [
           {
             "id": "4661aec124648299",
@@ -14,30 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineer Brain/CS/Algorithm/Stack & Queue.md",
+                "file": "Engineer Brain/CS/Algorithm/DFS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stack & Queue"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ad341f94deddc22b",
-        "type": "tabs",
-        "dimension": 27.012278308321964,
-        "children": [
-          {
-            "id": "1647ef928282a7df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "DFS"
             }
           }
         ]
@@ -113,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineer Brain/CS/Algorithm/Stack & Queue.md",
+                "file": "Engineer Brain/CS/Algorithm/List & Map & Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stack & Queue"
+              "title": "Backlinks for List & Map & Set"
             }
           },
           {
@@ -183,16 +165,19 @@
   },
   "active": "4661aec124648299",
   "lastOpenFiles": [
-    "Engineer Brain/CS/Algorithm/Heap.md",
-    "Engineer Brain/CS/Algorithm/Dijkstra.md",
-    "Engineer Brain/CS/Algorithm/DFS.md",
+    "Engineer Brain/CS/Database/동시성 문제.md",
+    "동시성 문제.pdf",
     "Engineer Brain/CS/Algorithm/Binary Search.md",
+    "Engineer Brain/CS/Algorithm/DFS.md",
+    "Engineer Brain/CS/Algorithm/Dijkstra.md",
+    "Engineer Brain/CS/Algorithm/Heap.md",
+    "Engineer Brain/CS/Algorithm/List & Map & Set.md",
+    "Engineer Brain/CS/Algorithm/Stack & Queue.md",
     "Engineer Brain/CS/Algorithm/BFS.md",
     "Engineer Brain/CS/Algorithm/Algorithm.md",
+    "Engineer Brain/CS/Algorithm/_Layout.md",
     "Engineer Brain/CS/Image File Formats.md",
     "Engineer Brain/CS/DS_Store.md",
-    "Engineer Brain/CS/Algorithm/_Layout.md",
-    "Engineer Brain/CS/Algorithm/Stack & Queue.md",
     "Engineer Brain/Dictionary.md",
     "Engineer Brain/Engineer Brain.md",
     "Study.md",
@@ -211,8 +196,6 @@
     "Engineer Brain/CS/Algorithm/-Breadth-First Search (BFS).md",
     "Engineer Brain/CS/Algorithm/-Hashing.md",
     "Engineer Brain/CS/Algorithm/-Binary Search.md",
-    "Engineer Brain/CS/Algorithm/-KnapSack Problem (0, 1 Problem).md",
-    "Engineer Brain/CS/Algorithm/-Back-Tracking.md",
     "Images/Javascript Engine - 1.png",
     "Images/OS - Provisioning 1.png",
     "Sync Async.pdf",
@@ -227,7 +210,6 @@
     "Engineer Brain/CS/Docker/Untitled.canvas",
     "Engineer Brain/CS/Docker",
     "Engineer Brain/CS/Untitled.canvas",
-    "Engineer Brain/CS/Git",
     "Images/Design Patterns - Optimistic Pattern 1.png",
     "Images/Design Patterns - Optimistic Pattern 1.png",
     "Images/Robots.txt 1.png",
